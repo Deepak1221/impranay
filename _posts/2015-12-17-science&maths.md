@@ -1,5 +1,5 @@
 ---
-title: "Taking dig at Science & Maths"
+title: "I bite off more than I can chew"
 layout: post
 photo_url: "http://www.thefamouspeople.com/profiles/images/plato-2.jpg"
 description: "Plato's idea was that there are these ideal forms, like perfect circles, which really exist in a kind of math heaven somewhere. And the things in math heaven work like math does and we keep realizing they exit when we see the regular world strugglign to imitate them with its imperfect triangels and circles . I'm not being very fair to this idea beacuse to me it just sounds crazy."
