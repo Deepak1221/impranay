@@ -2,7 +2,7 @@ port: 3000
 lsi: false
 permalink: /:year/:month/:day/:title.html
 # paginate: 50
-kramdown: rdiscount
+kramdown rdiscount
 # enables SmartyPants (nice curly quotation marks, em/en dashes, elipses, etc):
 rdiscount:
   extensions: [smart]
