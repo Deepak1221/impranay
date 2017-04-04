@@ -13,10 +13,9 @@ More information can be found through [LinkedIn](http://www.linkedin.com/in/hack
 
 ## Elsewhere
 
-You can find me on a variety of world wild interweb sites where my username is usually "hackersknight".
 
-- [Twitter](http://twitter.com/hackersknight) — a good way to make contact
-- [GitHub](https://github.com/hackersknight) — code repositories 
+- [Twitter](http://twitter.com/jesuispranay) — a good way to make contact
+- [GitHub](https://github.com/impranay) — code repositories 
 - [Facebook](http://www.facebook.com/pranayy1) — friends and foes
 
-### [<img src="/res/twitter.png" width="29" height="20" style="display:inline-block;vertical-align:middle"> @hackersknight](http://twitter.com/hackersknight)
+### [<img src="/res/twitter.png" width="29" height="20" style="display:inline-block;vertical-align:middle"> @JeSuisPranay](http://twitter.com/jesuispranay)
