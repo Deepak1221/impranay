@@ -8,4 +8,4 @@ description: "Nothing can be defined whose nature changes all the time. In addit
 
 How many times does your gut tells that you are in the presence of devil. I don't know of others but I feel it all the time around, maybe I sniff some of mine. I pity who can't make peace with themselves, actually I didn't mean peace with ownself with devil that you kept all this time with you. Neither ever nor never it will say goodbye. 
 
-Pointing fingers and identifying a enemy physically is easy but what about one latches for all this year with you. Heard traitor, man without honour, all they see a shining armour. Because nobody would like appearance of dented and sumgged one in their presenece makes them awkward. Let them talk, never pled for reprive cause devil will dance with you not yours but there's.
+Who are afraid of going to hell, you are already here. 
