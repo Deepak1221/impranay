@@ -10,6 +10,7 @@ Hello. My name is Pranay. I'm an Indian maker living in Delhi with a passion for
 
 More information can be found through [LinkedIn](http://www.linkedin.com/in/hackersknight).
 
+## [Resume](https://docs.google.com/document/d/16E5OweFwOvbZCvW3qTmMP5BtEJwO6OXo1FMC-CLEIsg/edit?usp=sharing)
 
 ## Elsewhere
 
