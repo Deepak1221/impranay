@@ -1,9 +1,11 @@
-# impranay.github.iohis
+# impranay.github.io
+
 Hi,
 
-This is a personal blog space for me. I usually put up my personal views and thoughts about various topics along with link to my 
+This is my personal blog. I usually put up my personal views and thoughts about various topics along with link to my 
 ongoing or completed projects. 
 
-The layout and blog files are open to use, except my contents and it's artifacts those do not cover under this proposition.
+The layout is open to use, except my contents and it's artifacts those do not cover under this proposition.
 
-Regards!
+
+Cheerio !
