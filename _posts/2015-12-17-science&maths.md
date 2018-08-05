@@ -17,7 +17,7 @@ Why does four plus three turn out to be seven insted of tweleve, and how does th
 
 <img src="http://cdn.meme.am/instances/57043240.jpg" align="right">
 
-I think most mathematicians are probably with plato on this. They'd tell you the mathematical truth is more pure and essential and fully known than anything in science you've probably heard that evolution is just a theory, even gravity is just a theory, becasue science can't really ever fully prove anything. But math has proofs and we know for sure they're right.
+I think most mathematicians are probably with plato on this. They'd tell you the mathematical truth is more pure and essential and fully known than anything in science you've probably heard that evolution is just a theory, even gravity is just a theory, because science can't really ever fully prove anything. But math has proof's and we know for sure they're right.
 
 But why is science stuck defending theories about the imprefect real world while math has these perfect truths?
 
