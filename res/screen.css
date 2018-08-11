@@ -520,7 +520,7 @@ div.meta { margin:1em 0; }
   }
   div.meta .item.reblogged {
     background-image:
-        url(http://static.tumblr.com/9njdies/592l8jd17/reblogged.png);
+        url(https://static.tumblr.com/9njdies/592l8jd17/reblogged.png);
   }
   div.meta .item.tags { padding-left:0; }
     div.meta .tag {
@@ -528,23 +528,23 @@ div.meta { margin:1em 0; }
       margin-right:0;
       opacity:1.0;
       background-image:
-          url(http://static.tumblr.com/9njdies/YO7l8jd2b/tag.png);
+          url(https://static.tumblr.com/9njdies/YO7l8jd2b/tag.png);
     }
     div.meta .tag:first-child { margin-left:0; }
   div.meta .item.time {
     background-image:
-        url(http://static.tumblr.com/9njdies/zkFl8jd2w/time.png);
+        url(https://static.tumblr.com/9njdies/zkFl8jd2w/time.png);
     float:right;
   }
   div.meta .item.note-count {
     float:right;
     background-image:
-        url(http://static.tumblr.com/9njdies/ykvl8nmzz/note-count.png);
+        url(https://static.tumblr.com/9njdies/ykvl8nmzz/note-count.png);
   }
   div.meta .item.dsq-comment-count {
     float:right;
     background-image:
-        url(http://static.tumblr.com/9njdies/dbPl8uqid/comment-count.png);
+        url(https://static.tumblr.com/9njdies/dbPl8uqid/comment-count.png);
     display:none;
   }
 
